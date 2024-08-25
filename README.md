@@ -27,3 +27,7 @@ To Log in with administration
 
     1. Email is EECS4413@gmail.com 
     2. Password is 4413
+
+
+Home Screen
+![Home Screen](https://github.com/lone-pro/Website-Ecom/blob/main/home.png?raw=true)
