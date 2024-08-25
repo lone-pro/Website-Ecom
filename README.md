@@ -23,7 +23,7 @@ Steps to Connect via Docker (Docker Folder)
     6. Put http://localhost:8080/FinalProject/ in your browser and this will launch the website using Docker
 
 
-To Log in with Adminisniter
+To Log in with administration
 
     1. Email is EECS4413@gmail.com 
     2. Password is 4413
