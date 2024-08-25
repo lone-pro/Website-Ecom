@@ -12,7 +12,7 @@ Steps to Connect Manually (LocalHost Folder)
     5. Clean the project, build the project, and then run the code from your Java IDE.
     6. This will successfully launch the website.
 
-Steps to Connect via Docker
+Steps to Connect via Docker (Docker Folder)
 
     1. Ensure you have Docker Desktop installed.
     2. Download the data_export.sql.
