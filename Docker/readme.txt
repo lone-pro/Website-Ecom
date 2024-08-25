@@ -1,7 +1,7 @@
 
 Steps to Connect via Docker (Docker Folder)
     
-    1. Ensure you have Docker Desktop installed.
+    1. Ensure you have Docker Desktop installed and log in your account.
     2. Download the data_export.sql.
     3. Import data_export.sql into MySQL to create the schemas.
     4. In your command line, run: docker pull dockerproject2194/web-service:1
