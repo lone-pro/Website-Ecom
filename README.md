@@ -11,7 +11,7 @@ Steps to Connect Manually (LocalHost Folder)
     4. Import data_export.sql into MySQL to create the schemas.
     5. Clean the project, build the project, and then run the code from your Java IDE.
     6. Make sure your SQL user name is root and the password is EECS4413, otherwise just change in the ConnectionProvider File
-    6. This will successfully launch the website.
+    7. This will successfully launch the website.
 
 Steps to Connect via Docker (Docker Folder)
 
