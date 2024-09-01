@@ -13,7 +13,7 @@ Steps to Connect Manually (LocalHost Folder)
     6. Make sure your SQL user name is root and the password is EECS4413, otherwise just change in the ConnectionProvider File
     7. Put http://localhost:8080/FinalProject/ in your browser and this will successfully launch the website.
 
-Steps to Connect via Docker (Docker Folder)
+Steps to Connect via Docker (NewDocker Folder)
 
     1. Ensure you have Docker Desktop installed and log in your account.
     2. Download the data_export.sql.
