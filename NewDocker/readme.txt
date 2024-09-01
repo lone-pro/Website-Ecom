@@ -1,4 +1,4 @@
-Steps to Connect via Docker (Docker Folder)
+Steps to Connect via Docker (NewDocker Folder)
     
     1. Ensure you have Docker Desktop installed and log in your account.
     2. Download the data_export.sql.
